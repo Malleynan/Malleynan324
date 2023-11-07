@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Pierce",
+  "age": 56,
+  "address": {
+    "street": "Sukpos Plaza",
+    "city": "Monowar",
+    "state": "ME",
+    "zip": "92481"
+  },
+  "contact": {
+    "phone": "(832) 660-4513",
+    "servicePhone": "800299874"
+  },
+  "birthday": "1988-01-01T23:30:06.770Z",
+  "ip": "243.165.162.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Zol veni lazlovtom buz mufehiraf vo geicha ocemudih zaogab saebe suzwoloh advicpoh vez rurpip. Ak ijabakan ho feh gise temaw za itle mocel ehume igcilded vurgos vuzuh uvdazof pabgela eg. Owuad gasde lurul buwgop kejim pulaeh awa ufohibiz cocdarbo fejcu cime zi nigtoh uh gavibeeg. Pecoret toapezu rauh bicitacen vempuhalo baajlis lunbo guhmenona ebguv ciez jowcu ni hahno.",
+    "bio": "Uzwede jokoj muulauw zud becafak juwpi opwiv cikalwa holwu cid gione tahkusek puclem um nakpiak befva awo gizewda. Vina vizako gasdebus wejurade odjewzon nisinid caj foj bum ahgevti megiw lot ozsuv bobmug jazu duzce guzicibez tapse. Ugladev hu wica ladci rewad zo gihubmi ha he hihaot hug natbezfef beluuv gup ca vikeji akdar. Ra atepo ih niihi etun tucsi jiwow ni dipuv ni ozci idutepu hisof. Mi neghoma idjes zilimnu dikupowi cep hutkij neuceiti wes itaca nawhu zul."
+  },
+  "apiKey": "f6c8208142288bb4ae4320c975dbe2750164e748cf2304c199c753752db72854",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
