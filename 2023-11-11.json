@@ -1,0 +1,26 @@
+{
+  "name": "Joel Weaver",
+  "age": 62,
+  "address": {
+    "street": "Tuvi Extension",
+    "city": "Gocatu",
+    "state": "WI",
+    "zip": "45749"
+  },
+  "contact": {
+    "phone": "(668) 449-7337",
+    "servicePhone": "800598497"
+  },
+  "birthday": "1997-01-08T08:41:30.850Z",
+  "ip": "192.225.227.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Cu radol ga ogu keefuane fenlom buturlu cim kuempaw timwoh ruz dadajul rief mejza atiulbog mifik tebvu. Puze idenas wevice cutep mid vad pugod les seaha hoho gusrin pe rohvuw. Ri ic wugatan gaowegi enwidmob rekuso kud adkel haga rolof sofsahe juoso. Imajirew wukeiva soafle sursilem we wuwojso ervuda po uwtoh kab tojgo fuz se zamu guji vu rivines. Ma nuga as fupuweta rovimed nu baznared ulafirij fuzoc ot fivesiku omoni fuguhos zoizu gegomusej. Ohge mamigfe zus tum wanolkin retta anhozni at veiwi mu codla lus ref.",
+    "bio": "Humji lupus reg va tuvjovwa upeale kohuhag icwof un fa ehiik ziva ijeko zogeciw esupizu. Uc otekva pi hiluhow zamiw gifdiped ke covigohi lofi banazga sij guwte varude zecacuba jon rek. Wi fulziblam pebo suvce zo wopum po ri fatije nuzgiro mo juwbar nabwojfe aku."
+  },
+  "apiKey": "cb40e75ce1a33b8a37b1bb5cfd805498f5d3817744656970f7e6ea8b62270ece",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
