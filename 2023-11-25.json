@@ -1,0 +1,26 @@
+{
+  "name": "Ella Bennett",
+  "age": 24,
+  "address": {
+    "street": "Ajere Circle",
+    "city": "Dugkake",
+    "state": "NM",
+    "zip": "40142"
+  },
+  "contact": {
+    "phone": "(439) 707-1699",
+    "servicePhone": "800125889"
+  },
+  "birthday": "2006-06-20T20:43:42.587Z",
+  "ip": "224.254.116.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Filikawon finuvej lesulwaw udeid zekja ref gotifpif jore rewabu gac emoedauge tiv es. Janelu amgac zopolwik parihuj dih wemofo ri bih rujwuvcur ec gibod tadwow vefveb beke suomkos. Kabgij tag rusulfic lec wop lekas duz lisvod afa lugnu sim vijzanput supkozin okizef.",
+    "bio": "Pupodlar amuli kuvdiobe tup vit vekwuzuhi opu ubpasmek ep ocmaw janlizi damgajfah zewfe moem far tejof tus ap. Ma foja guwbu kecji noba dagusi vuh ovila segtu pob sa dijur odikgi artur tetterjig cozgu ze. Keaz abahiza wus pijedsic sin ma vase rebu bisni odubi tap ge if his gipzatec opedu jos orat."
+  },
+  "apiKey": "e2b5b4dce406c75e835e2a48a5d25c6af4461acd666b05371d3f1a48c4350057",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
