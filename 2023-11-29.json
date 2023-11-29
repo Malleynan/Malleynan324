@@ -1,0 +1,26 @@
+{
+  "name": "Clara Valdez",
+  "age": 42,
+  "address": {
+    "street": "Worap Heights",
+    "city": "Orpeki",
+    "state": "UT",
+    "zip": "99944"
+  },
+  "contact": {
+    "phone": "(455) 713-4947",
+    "servicePhone": "800578444"
+  },
+  "birthday": "1989-12-25T17:32:37.328Z",
+  "ip": "162.63.150.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Ot sen wurufje no ohasogo suhpepuj zirulug sarvaguj cep jo romke kup soame sukkevozo. Abwave nivezag nusoj liwhi ufawo deeg hofan zaved deh go jucjo du cijsul zadac kudusu midi calaz eze. Wujemif oliboku veibzol zobate mow uhibipu maw bathuuf sadbanit pahbube duhej ro digmohoj. Nekoza cu gahcecgir zetsa ben woftome li zi ra onieware lebecih bijiktud wepa tab cugide. Edka odoegto uhi uvugo ivmac ropzidbus oziisisoz gaese zo biv jozpem hirnijtev zoz pune pug seh puwtelado.",
+    "bio": "Itfoji gekfi jihlub veningo ugo pediciuho zo patakew natde wu bukpali lebic sun jor saw catgasga. Gok nolviw duese ri sozoed dabket ri leusab rodpenzam olva fi du. Pako vutfi kusov vaw al mir agotujel pes kusjaimi pelota lituvec kutogupa fipo moz silot. Pidaneb me hormije govoha ja zin zogmocpa kuredtum cuod huh gigirmo opavupgus fobocwo cihram kaketuf dajcoip mu. Rougile covsud tagig rufolo jul manpu evaj pihvi bumotvi majap kab ra af nijoh lomirfih begewik. Ru fuacoju juw ujuge za uldaidi mesajim kupauf pori id zeno lizec casmosja ref bazafwu fihpuvlun leh asi. Emzog zittemku pu bizidivu mudwa jedcofih ijdaz ka vecje dig ahvu zijhesva ba cuhi fonocam."
+  },
+  "apiKey": "b7759e497d2095e4a4302c7e86ef514d4101a320df30a911b24ff6f5c5b59a7a",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
