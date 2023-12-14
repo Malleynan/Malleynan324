@@ -1,0 +1,26 @@
+{
+  "name": "Jack Horton",
+  "age": 54,
+  "address": {
+    "street": "Lotzi Pass",
+    "city": "Tugruhhaj",
+    "state": "UT",
+    "zip": "18115"
+  },
+  "contact": {
+    "phone": "(451) 680-3035",
+    "servicePhone": "800295979"
+  },
+  "birthday": "1969-10-09T10:47:45.322Z",
+  "ip": "237.76.19.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Niutu be kaim paso wo ompo sebop duz ref wutof pevivror cojubuzo ivi sore buetujed. Er juvbo vid od ge bugaev lokud ipa mucsavwud duuk gegcuczu vugla defu. Dinige surce ejler koruf honrut fagnebnof naj ifaker pawvawe fukerah bekgu diah.",
+    "bio": "Pona motole libi lovu gilnoj viwe pefipew okvec bodcaczat nun wowuz warfef japvupog waumohac fesuhi. Mucja radu kojes vut bajew ic irmup budsin ig paga vafego nobahci bu. Pew be dukaedo ubokoki kufvuljo vivahis udaaj teh tenhoafu ej jufepvop idrusgor ikjode. Wozlisub efa podnurig cophe kofco fa iboh ameir zep awrefa re duruda. Vapufij fawvimmoh regofenif gapis nac mu nuvniki kibawo lej jizof vageggog ojnohi wut cun kaw mewdoomi."
+  },
+  "apiKey": "ccf28c107f9daa57da88f0f704348b4b069f2bc81b1b1b6afee130bead826257",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
