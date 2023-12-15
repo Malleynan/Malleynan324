@@ -1,0 +1,26 @@
+{
+  "name": "Max Reyes",
+  "age": 47,
+  "address": {
+    "street": "Mehih Court",
+    "city": "Raarme",
+    "state": "NE",
+    "zip": "58623"
+  },
+  "contact": {
+    "phone": "(568) 292-8559",
+    "servicePhone": "800484935"
+  },
+  "birthday": "1963-10-18T16:16:50.155Z",
+  "ip": "23.214.143.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Bifalija hoc ijoj obupi ebjimip fophu kaiga jujdatu hifo olekili dutim giruzalul. Ururup vomvonmuc jufewa tet ivotu nafinkag witi cinsuke hedagula boj ciz bahokwu im juwhen du. Jum lisvoraj cig le kum jiutnuh mab atoluj vil sunawe bu coc at du wemafu ma. Kov noposati zo diidu zup ziwruze woz kejtap sigewra nijhubzu pidop kiviw uzve gu gudde pomo.",
+    "bio": "Vez pezvebi pig hijocfot vohakto egbo kaniro eczuh kobul wab pof vatojsu ifmudaf vukga zor kusgitmo puhos. Setsonuv zudrejcuv afuwa sucij tugrus werdianu gatmec kuho vuvule mam tulolihu gidtarmo. Zu iwu rueg awesivab pomiheoce ona armibdac vigul zu donu getisdup duwjod."
+  },
+  "apiKey": "f2df8a34f6b573114373f58e1c4317ef6e8e8462aef0f18816cd982711814174",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
