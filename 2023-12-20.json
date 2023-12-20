@@ -1,0 +1,26 @@
+{
+  "name": "Madge Hanson",
+  "age": 50,
+  "address": {
+    "street": "Vahu Street",
+    "city": "Irazuuj",
+    "state": "LA",
+    "zip": "96117"
+  },
+  "contact": {
+    "phone": "(337) 911-3289",
+    "servicePhone": "800857942"
+  },
+  "birthday": "2003-07-14T02:58:36.964Z",
+  "ip": "189.65.78.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Hes ekzuhmom lu juji namig serdor ohuwejnub zutjat cige ladcemzoz no dunzej vov ezudig jundotno dakaka woscuw ra. Vo hah lafitdi kem wiig avuki vo kad rakokinal ko dehif ne fib ti ikuhi fa. Reccec jedgelur hefe ero nitu vol egoles kemel jeof malded kop zidlan vola jubik.",
+    "bio": "Di ga as al hi defu zotto sew saznarden si oto tebgo funhoz ho ra lepi aw nopcuaf. Pi lalded jaugacod hajzorhem gajtuf epake menab lusmamtaz go ocuinepil papafem godem kuga. Kiwa uvi topofiv hodour niiw guhebe birezu evutu te eji sezunfa lo jejhe umkej ta ese kap nobo."
+  },
+  "apiKey": "5106e2a429f5488d49ae3a0e2175e620f15094a0db29485a76adb1f6dfb06e33",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
