@@ -1,0 +1,26 @@
+{
+  "name": "Edwin Greer",
+  "age": 39,
+  "address": {
+    "street": "Mapih Lane",
+    "city": "Usepemret",
+    "state": "VA",
+    "zip": "46693"
+  },
+  "contact": {
+    "phone": "(257) 462-8101",
+    "servicePhone": "800518888"
+  },
+  "birthday": "1975-09-16T17:11:33.803Z",
+  "ip": "187.54.192.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Kure tut dinfujcu vavfo jabbunok fofud kus davapokez awoj bahji voz oz. Sol panson te kuha wazzekafo domwuhsim oloecuisi ugpuzar petoh epgebag tudzik fu povu. Marwikal sofze ahker suwbiag soace bogalu vara roiji sufjig ro zudu bol unulu bezit.",
+    "bio": "Ape geoc sud kefhubda lajmat dajjatbom ohi mecbom vumripe ajuecu voleho gobige lunacic isotule ze zejo wefigu. Losid riwiclu ab tafiada tesfi guzas wame wuigi tuzuj doov tuziro wunef vak upi. Udbis goucakum hu hokowus izakosbab rabesu upo cotiv sosu pikjiklu ob nijsurbu basar ahdir totukeb zauwu fe ter."
+  },
+  "apiKey": "9505b1749beb56159d82d5955aaf9569282b6a15524149d3a5c353826812622f",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
