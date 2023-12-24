@@ -1,0 +1,26 @@
+{
+  "name": "Mayme Garcia",
+  "age": 22,
+  "address": {
+    "street": "Wowuh Turnpike",
+    "city": "Recugni",
+    "state": "OH",
+    "zip": "75223"
+  },
+  "contact": {
+    "phone": "(567) 890-5398",
+    "servicePhone": "800885388"
+  },
+  "birthday": "1960-12-09T10:54:14.641Z",
+  "ip": "129.248.104.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Kikipi ujijiwi jihtetsu fe gewedeje raaltak puzhap dud puwed sijon usi mebojvag vaiviasa dufuvapiv rum. Ti lir pa to tahfuda jocbesfim le gapofi duafcu pih ga ru. Vi occejweh pohkeuwo ut gi feemu li ri fisbiz fuizavi narfuse hidipve bezuvad paorhe ja wazgobvir recjule lofni.",
+    "bio": "Pomada liwocev weh wetvamba batci vofhekum wuguwo saakez ureb re tebcewvu bolapaw sapheg osa ofe piepi licbeg fudmap. Fadi ivajoh gusawo ijose cad peh rejehke vafiva abu zejadah hofnicuhe heoc gozzefhu jekiemo fut. Cesikvil lewac sez supcom juptewse do va turdejiz ere ucfin iti ziumo tucsol orecika."
+  },
+  "apiKey": "598fdd79307ffc008678509dd033cf119467a8749b5d343be7b8be2af258019d",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
