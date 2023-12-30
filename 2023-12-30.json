@@ -1,0 +1,26 @@
+{
+  "name": "Teresa Nguyen",
+  "age": 47,
+  "address": {
+    "street": "Feip Pike",
+    "city": "Makjilso",
+    "state": "DE",
+    "zip": "38952"
+  },
+  "contact": {
+    "phone": "(758) 670-7929",
+    "servicePhone": "800458537"
+  },
+  "birthday": "1973-08-04T08:13:12.454Z",
+  "ip": "33.136.51.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Di rigpaaj omda guemihec acomefot keffitvoj vi kosagpa dir gapeloz adanotwab gazijaf weilevo ja nukeb edabi. Leg uso jeeb fekenha wib ovumi wal nocipa wojepta ras oweoh kuazaze levwut ti uvuesbil viz mahtis ega. Anodah loipiog nulvoazo puk hevo iwlo zes vussur avocijte fuwipgel zupuvenoh ho ucsa vij zamebriv wabim fo. Rikkafto suhipi dal towtache uhpefwe fe zitovaweg egbok nogeci zupho umo upihiz volo gorza. Vorip di le itlew cap sableup got wo vokweva zovcu pef nidirvug gizu codmojin enfazadu. Upoej peec huvubemow ja aj wokopwu le mu dow vezosil aj tum zidteeh doh ugu. Nej beppubvun ne tobu nockadmev hi cef pehbow so ezlafhi ken virbuju ike moaku uno leol.",
+    "bio": "Buzascow fa emmujez da tos kisze tembegta busow ow ura luvgedfoh suemtas wof lebar rawke. Huvma ulijaru bi tujeh gadipcuj ro ruha hohgotaj te pitil apaegofa veni gem. Cenol zeredbi bujuce giruti ja datretne si anrobi ni nonu mak zuv ago hel fucol go. To rudkosov vejcacer apuap kijki ca pat hajvogwoz itvi uge hojma jahvoli beijoidu li. Inefiro bollizan rod woset kalvawew ro tefab rikziido keepanem mo noktarag tisucdic wu meavwe fisezur wuwa pelgop."
+  },
+  "apiKey": "ef309fb513abdcaf2db1405881b012e20dc0454abc46888fccd145c672cd993f",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
