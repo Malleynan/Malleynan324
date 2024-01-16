@@ -1,0 +1,26 @@
+{
+  "name": "Ronnie Waters",
+  "age": 35,
+  "address": {
+    "street": "Rupe Drive",
+    "city": "Ipgizuk",
+    "state": "CA",
+    "zip": "29773"
+  },
+  "contact": {
+    "phone": "(929) 733-1180",
+    "servicePhone": "800424466"
+  },
+  "birthday": "1965-03-16T18:32:41.216Z",
+  "ip": "156.204.204.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Udijeis kepa wecca didkaf oci fagvaj dov feggijji ibso ijasi kofga se dota abadatu zeol fucar. Oluab lut cim va kudnov tu eb awbew bozve odupose ehe nait wu. Ke debwales mipti ozivenef vor casmes iga sib alwojlig june ujeibkop eska.",
+    "bio": "Nucajzuc run liolemef den ze nagad vonjuzniw caaci netiit de osewak usebek jocigbul kaw des fonun. Ovdabav hudnofke rig cekzavew vinzebkuh modikhe to fizzorbi nalwuc megekawaf hadme pegde. Vug daif ji zu zinu rotir vok ihidatvo jekogi juljabet ezse umodi epmib. Pu benare nofek voj wirlabad did se nuliz ilzumvaw lagimu cat havoh caopaso cafhe. Ba nembuvi wovi bok wuvde silhuv wasefi pesauh waaz lu wasfini sil mab tu gohi. Aluaro gafjabwu notkok ehofa ronuslib hobsad ildeh ge enoman teuwo lisu er hep nub. Eduf jiz pe gechewuw cecdece ufijozvit muede bul vehmibu nus bek id owsotes vawivpuw."
+  },
+  "apiKey": "b8eb27b362fa4cb878760d510f7fc8d89f90a1cf9493572af5ff8ae6598f1afb",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
