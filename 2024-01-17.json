@@ -1,0 +1,26 @@
+{
+  "name": "Alta McDaniel",
+  "age": 49,
+  "address": {
+    "street": "Sine Avenue",
+    "city": "Jatieg",
+    "state": "NC",
+    "zip": "00682"
+  },
+  "contact": {
+    "phone": "(227) 523-2698",
+    "servicePhone": "800772587"
+  },
+  "birthday": "2001-11-29T00:49:53.480Z",
+  "ip": "84.159.23.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Cijir vosma kekufcat dawi epju venegvi ave soos zudoso rawilu ledub nelpo. Vopof kipugca puhpo wu ticvic aho emjo bufuac waso hin gehfal ar. Vojwofec gemmu wejsucja doztun div ti lujunmi fabnonuw fe leok cufpe ufvajka ol gedol ofo zis. Inefuj puji ru dakkawe cujag niz horsi lujba bigacu hefoki rehug ku viab vefne sow og.",
+    "bio": "Uze misebwup sesoj so kodafwun itaopvud ukifupi tic oco vusucver giledu jewwitet ci izcezve. Najobeno isi ude siji ikcieni gizka winum be wec nemrip lato uzapocvi censuted pup nowvat ezu ij loruzu. Tu hevnul ep hoppekta idti tafob ape ive diw tozicha men jopbor la wemusabup awa jezat wod."
+  },
+  "apiKey": "b03b5092dd5618c33e5c5e6fa001c966aa15341923e35b2cc08eca0f2205f871",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
