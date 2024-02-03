@@ -1,0 +1,26 @@
+{
+  "name": "Anne Diaz",
+  "age": 19,
+  "address": {
+    "street": "Naato Turnpike",
+    "city": "Mozuvjo",
+    "state": "NH",
+    "zip": "09570"
+  },
+  "contact": {
+    "phone": "(568) 534-2258",
+    "servicePhone": "800559952"
+  },
+  "birthday": "2004-10-22T20:27:38.335Z",
+  "ip": "242.113.57.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Buhlitse fog ket pa vim miwzadcoz fo zitapas wijawdu sahiv nimoon nelfer isejuwte ibmubpig mupota cik ziptan. Muepevu iwa buv ka laewere afhomba sazeiv bebiwzo tefnib el tah rozvepdo paej amicefpo nah. Gagevel demukek si zulid baet ofaba libnag tutguc igulujit ris jim ge.",
+    "bio": "Jemo ucenij fuunfe jobsakca sipivgi areno tipicop kip tegucte wu ben abefokvi zut rij fodifuw bokowi vifke lahhusa. Ujo hebugpaw im tujuf itaco ju tepajul ha gipul maeniib de pocesvic gowovali matkive. Bu okjunori pavup namlacer ebuesmih inru mu pewarzas zitpoz piil opjenrot topwoh. Baafi wudbal pedajudep jubil vilafmim ji tesecuw zajnavdib bosasu aso hoon puzhafe vas ijoohovec fu uva egiza. Berkiul papadah et tenfejo wo za soabla mizmemev di li vaasa fo. Zekjitad talefvod ace cehciku fi nolub zepdiz rej keejalob judjosor da vikmuwu efgu huw mijizpoc zo. Hef zatikem nomnifom gureha vel ba mijmehdun wokec tum nibel sidwoho oloikegu ubvemneb nej."
+  },
+  "apiKey": "806a5f45004c1ac9451595015e2e0493064bcb51c3289843c5c2e1f217fc2ecd",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
