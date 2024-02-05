@@ -1,0 +1,26 @@
+{
+  "name": "Mabel Walters",
+  "age": 31,
+  "address": {
+    "street": "Buij View",
+    "city": "Nasisdi",
+    "state": "MN",
+    "zip": "27556"
+  },
+  "contact": {
+    "phone": "(274) 625-8327",
+    "servicePhone": "800949748"
+  },
+  "birthday": "1972-07-12T00:15:54.151Z",
+  "ip": "172.252.128.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Rij re borzop lihfa kev namopu mis rare se god riimca nadjeogo. Zakwu dab ruk ajiic nacet eveekpi cum iteeviwil ke ebu ade jisajer. Dibledri behofivi co mevasigil tivduve mi boc woj unuk henomufot gecod morotev witu. Wu puvko ovu kocvabco copvet nauf pufavcur guf ofmedo jebki nu vajiso ceori hela.",
+    "bio": "Ojomep lu zises ececed zedow om lugvah miuleuko uwevuli neh voplo echavim sigando. Asubipo julovbe sirbu mek pa la wo fabmaag ehuocad sogru hueno umireteho. Ronrem zununacam udiov galuz pah zodo wu ruvzokta kowakit bacsorra wifmavnef mihciwwor ihuzjek vetatava la. Denaji lapwegzok pefabfe dofu hupmal leb wipzim rasapcuz vizosu gafa caw alifihug pit ovvo severu."
+  },
+  "apiKey": "8c2e2d9c75458a8a815f04018faf6d1e163a2bc4c8fdf8b3604cd17a5c58b27d",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
