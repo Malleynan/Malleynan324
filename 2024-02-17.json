@@ -1,0 +1,26 @@
+{
+  "name": "Bertie Harvey",
+  "age": 46,
+  "address": {
+    "street": "Loluh Center",
+    "city": "Culrula",
+    "state": "AZ",
+    "zip": "48787"
+  },
+  "contact": {
+    "phone": "(921) 736-9962",
+    "servicePhone": "800663852"
+  },
+  "birthday": "1999-02-08T01:41:20.761Z",
+  "ip": "57.164.116.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Ufamivad vi wewhowo ze ruc noffof voisper toho foem gisvunker esug we hazeuma vemdog dofifiemo et cu. Mud cuonej en gu ediv zujzevam migej heljulnuk donisid vet eg diwsero za liljoj gep jidefuhu. Og nivsi tod popul co mu egu ca zu don gilaw pilpufum teuse bojcel limem caodujor.",
+    "bio": "Uzci guj pivokho mispi rudunu jep wob kaz gapgomzu jiz pajfapro fu jehewaf. Derbeba dukos uzi pu wila fe duupu mi rirroj agupunni wuijalo ketovnu. Uztol ere alnipgi fiwu izuke umuseddef pibusicat wo ol onedi ru oswu cinveji wahrige zil are nupiwga nueja."
+  },
+  "apiKey": "5b86c06e75a665f51031ce07c6569d8cb915e4223f07259282ee8fe6d79a607b",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
