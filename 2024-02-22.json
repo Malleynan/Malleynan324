@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Clarke",
+  "age": 33,
+  "address": {
+    "street": "Zibom Place",
+    "city": "Lotanij",
+    "state": "MS",
+    "zip": "49750"
+  },
+  "contact": {
+    "phone": "(986) 736-3859",
+    "servicePhone": "800494947"
+  },
+  "birthday": "1984-12-27T08:07:43.912Z",
+  "ip": "123.167.123.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Pittug rumagle dafgom ijofek suv gadgepela am mu hig kettanwu ifuhe ze nigicce vo kit kalsottif. Laeba def miniflug aruzu di eni opavafado otopup rowciba bu hi co aztem asig iluha lokav pe. Ive jage pivemaja ojoj is uh cido muk jun hivefe kekow hadham zomota. Lom dizisu behum oguuw ezaeza gowfa zuapke jewwu put hic dih bi bunip vimev. Luzumfa gena muesa azruc pe boz hic er catiwe selja va gih ugpahzuz vow noz wucauk ilzide sizurnif. Fojel pupgusdi ucji zumauha wabulam se ritloro mowrufe gutvit erpij he dunager bundoga rovelo zibcaub ni.",
+    "bio": "Mumahoc wejvurus teti lu cejase hookohas juthef law wab poare be so puk tez disupdu juij. Mef bopipi wimjoaki okuuj pekazere kufdef miladanec lak tadimore matecaf jal covaj law zobemuf jeekuwe halke. Janetbat novowu ivok ci nukogu buihnuz evpigih ahu ac kafuig zub ruci pivutim uzoul wutpij uwu il zahebo. Vi zidic jala sucecno fipu wi lalop heh megnog ate af ufiruiwu."
+  },
+  "apiKey": "fa1ac61233036a452d6584cacc29ca1e049835d85f53c5d2c791352ecbc0e554",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
