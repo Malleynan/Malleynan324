@@ -1,0 +1,26 @@
+{
+  "name": "Travis McKenzie",
+  "age": 26,
+  "address": {
+    "street": "Rozfim Place",
+    "city": "Vodibuwe",
+    "state": "NM",
+    "zip": "23812"
+  },
+  "contact": {
+    "phone": "(566) 353-1988",
+    "servicePhone": "800797522"
+  },
+  "birthday": "2002-07-12T08:22:43.435Z",
+  "ip": "168.4.209.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Visoin za puadmu jekles sismov laabaciw siobo vahazeweb he ikruv ecvico luamlib sumortam buaco ba he busrivzun zegeli. Gerzomo cew pesuratas lalar renekisi rimjov gi vus emuhi cicalav fe awegi dubti. Zompap mur bukzes itkoro in adwu adiseniv himucubo behgo bockiv owi ade cahiw ni sanori fewucu vudde zo.",
+    "bio": "Jiefi levi lazfu ujo feb ujbeza kow duzja javlushij wujomoca voh bieceog tivmizsid jab jiumo jacalo. Fapeemo rigol lu vosgac sijes nunwovo adnuw tikjacvi udu cigabo kodhincac heci hanuac ezireen fegvo zowtecis wokhazim teg. Ne uk few waocad midsaza atpac sib uweuwpa ubo pib sivsige lil ehga cupec omubo gi kajegviw jos. Kunawi kuehe gahil tawe agaiba dob igi zundahesu fokde meopi azirahhes wejoge naawi. Tez buj zi fu rada ararum lujof pezefhe jat warlehel omoak kutobu. Usi geneur zare onivu mu wucjev kezanara luv rug kupo pigwikot evo iftumzu."
+  },
+  "apiKey": "b262f4071dbb42e36a74c41411112c2a660580d4373bbf4db8a12c267e806526",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
