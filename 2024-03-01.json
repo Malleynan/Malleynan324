@@ -1,0 +1,26 @@
+{
+  "name": "Isabel Jenkins",
+  "age": 54,
+  "address": {
+    "street": "Iriget Circle",
+    "city": "Ekakeho",
+    "state": "NJ",
+    "zip": "29989"
+  },
+  "contact": {
+    "phone": "(738) 893-7099",
+    "servicePhone": "800783457"
+  },
+  "birthday": "1999-05-12T19:24:27.786Z",
+  "ip": "244.214.132.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Of welidmem viufe awewi bodakna hicuud vezabsom pewu agvu kewla faigbu koonozi. Embeohe isaroz bujan updoheko jaoga revmeki punomnu gigiho fazsamci vidma duoce vormohek fo givo gatopoda dujufce. Mef sihiup ivi peoce epoveoc ge soac dantome cuz daewpoc cob rokhusag reppoij we. Ofivok vapvuc sadigu ze kedav nuk be soateju lobepik jat puw vi kewfe buptiv. Le nujbelzu efiaruek zaibaaj eb miv pidew difandiv fak egi pawme wizwuj ru sinjeok ba ufdale zomfot.",
+    "bio": "Dozehi if ekogu wumzab bari ugipi na ruh isohirec abozad beca uzu tupdolfo nanur resobazak toze. Hodiote pip rac he uhaute gito li tel apzicoju zuwnozla bewaz ubacob ewhoko wor ehotemap. Sigouve vubbu buwsul ri feaf baj na uhikene tiksekon riavojiz du pami barueci pim manuc oginel wivo."
+  },
+  "apiKey": "717cfd608bddb514ab163480106af579be5abe034ef00ae1a5be84715e9694b5",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
