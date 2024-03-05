@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Lyons",
+  "age": 53,
+  "address": {
+    "street": "Subtup Turnpike",
+    "city": "Jocavi",
+    "state": "MS",
+    "zip": "47099"
+  },
+  "contact": {
+    "phone": "(507) 513-8392",
+    "servicePhone": "800172189"
+  },
+  "birthday": "1976-03-31T22:13:19.041Z",
+  "ip": "182.231.37.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Rim bi ic ere kodtat comahu watdigi ifgan foflokor uzoizpip it ezanacfa ve dudlek. Du zawsav bi jeoc kivazgu ci giva vin fa no furoice was azobeku hukuj tawfej nodiv. Rennurvoh poputza cekic jav ufowe jom idajes cug molos cawpufak ti sod beba. Gane fuihraw nagkunuh da kebzi rovhaj puglo fajojsu ziradbem san huitabo logpifot zakikus mog si hiralojo lonvundog. Akge abu lokpura avicufiv ahu al cacucumo dodza pacehecu pafi nah icevizis ga zicehah jugul wuwasul ih. Enniwdu ohucawaz ifis rik hebuva ji oh nurgic dado tujeked ah vuaj cu vovuek dufigo hi. Len garfi evi epacuhwi baf dadoj ahoevefom numav vobzojim ir kige ivone uloaliwi soamu vuzufbo fatceg.",
+    "bio": "Uli kakfuwruv edauwos jekkul wek zuwoz loma beocu jod cas uz butit lab. Abehetro af luhgejrus togeza sekuj tido hu ties obe esbiztu hijlokwu mahsalu. Jowuwlo ho getwuz obu vohalug ewigu cedu lenvosup jalav tijtaj ja po. Ohawma urfoc wi cucila zusitih voz zi omece rikiv se rel subu je joik. Finminbej tume lodcage eznez uro riicig zemleztu ob oda faucsa lanifci besobsit hukro mina. Sudejwaf akkiku uvaecolo jo ohtewrob ujtijso di elo totzu jezretduf ro ezaime dah."
+  },
+  "apiKey": "a1ab9a91e377bb93e3a9518b75b6d052160f9c532e9038c21f7016b2e42c3b41",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
