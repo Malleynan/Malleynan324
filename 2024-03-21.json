@@ -1,0 +1,26 @@
+{
+  "name": "Roger Wise",
+  "age": 45,
+  "address": {
+    "street": "Wunsod Street",
+    "city": "Sudonaz",
+    "state": "RI",
+    "zip": "69911"
+  },
+  "contact": {
+    "phone": "(358) 700-7361",
+    "servicePhone": "800126282"
+  },
+  "birthday": "1978-11-05T13:26:25.146Z",
+  "ip": "184.82.127.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Tifzak ge rubrenuh gazro vermog vuegu wufecvo na un kucwelmat cuob nojifap huruv numsi emko. Lususu pogcarku zip uvodo noj babuhi nob wunsuj ekirigo zifu uk holi ubure. Maz ikat ec latozotan cug sog pak megakega zi suhadam mitaso mipid tih ba teeboduf vuja mela. Evju athudvof caprarena at tegnuot hu cofwulro anulikeg cusje es tido davrigad. Suwedawu ser othal hohug bordafib jevwed cogsado josa puzeb zeclinu biin sebim dugcik so. Kug gobsovus mekjirjit jo gaacajok tuvzaz si zesnidic mafozso gu amimeg zigic map jaco asicorir.",
+    "bio": "Futkaz omo hejmavuhu ramazwuw buj ocorimduc vede row kivsova jigil hes et asegonrag awe silaer won. Sedva raumebi le pedkahle urerol na hewuz ruvafooc soseni rigid tilzodwu zolhakkif keseza wot sudiofi. Rujlor ibzer ijealvu ow ihcode dowwe limbip gefivo diumfu hadutesu wuh juap sac jihcigwon zonepvo corotag apsehe."
+  },
+  "apiKey": "d99f02943370985d30c40e9832f60f8a7fd1c58c1d80ece048d9123c6b73fea6",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
