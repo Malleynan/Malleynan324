@@ -1,0 +1,26 @@
+{
+  "name": "Nellie Thompson",
+  "age": 36,
+  "address": {
+    "street": "Rovro Highway",
+    "city": "Icujatez",
+    "state": "WY",
+    "zip": "25709"
+  },
+  "contact": {
+    "phone": "(343) 438-2071",
+    "servicePhone": "800188993"
+  },
+  "birthday": "1986-03-25T11:14:35.666Z",
+  "ip": "227.183.76.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Kerin sif uffukjor widdalor og viza or vis terdodor dage sup wadku ninu. Jonnuf towilu vep se pogubah koj hazwone zecpukoj cenebo maba fifgi nihib. Ruwmew jab hosfose rat wem nukeh zoonfer fum odu ciguguh aga atgic kooroep baglijgu fit.",
+    "bio": "Ita be pizkekvoh iwu gulnucew fahebih zipvop emje givu vecpaho uz wona bifive luwomje. Eckuleh ta igve esesizo ol uro puzelo uf ri us kelonof sa gifgoavu. Bolegcat kuujukup gik we decipbu bol comopa kuwewolo be pupcu wibuima ib huko hi. Orsupa lev porizge ehaagje pi nizbead tuthar re lukkoseru vujhieb lenmi mu ilavi. Gicok lo ge fengulpit uzukaacu aculodefo zu goholvol juk domuhvo ziachim mihna."
+  },
+  "apiKey": "f50d4ce88b95d25c20c3a1a3527b9c20ed6e541be339f13131cb449fc1e1d5f8",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
