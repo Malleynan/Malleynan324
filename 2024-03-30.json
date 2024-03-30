@@ -1,0 +1,26 @@
+{
+  "name": "Dorothy Luna",
+  "age": 44,
+  "address": {
+    "street": "Kamfir Mill",
+    "city": "Watozoha",
+    "state": "ID",
+    "zip": "69412"
+  },
+  "contact": {
+    "phone": "(825) 909-2697",
+    "servicePhone": "800531173"
+  },
+  "birthday": "1978-02-11T05:07:51.546Z",
+  "ip": "217.75.8.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Nevbu zo cubud vebhugo pugri utuz nam kew woba par fuwgoaja pul iz likout eg haleshez tec meamube. Anukeam ca gowazud amo mahdup it hatpu ecaehnat ipulu okabu socari ca nar caolavu siram. Sikiwbi avovo du hegowmu bifrati deseso hapmucne uvwum gowhoc luhimfov po tebozpo. Jij ale he opwo giap solna siv teihulat asuukutel ecru lev vopbef be enesli kolorpi pilhi.",
+    "bio": "Uz sowa damecag mas siv en dusuda enwismib jezwed cikhaj fohiha ti cekmisgub um eppis govum caldo kiib. Uwajac evu wevon ico duteete guctu fif co togemos afipoggi vi em. Pa ciepo veveke so wamcit gipuz kovus je muv kepilej ca ahzegwi jud keelo gag ihi apsikvo."
+  },
+  "apiKey": "2b3cc893fe2bcbb32504c25ea5d2274c5f1c938d1d3364c13a1fb0057120d945",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
