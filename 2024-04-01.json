@@ -1,0 +1,26 @@
+{
+  "name": "Winnie Palmer",
+  "age": 18,
+  "address": {
+    "street": "Ekde Street",
+    "city": "Eziridez",
+    "state": "CT",
+    "zip": "93879"
+  },
+  "contact": {
+    "phone": "(788) 583-3494",
+    "servicePhone": "800883957"
+  },
+  "birthday": "1976-12-22T21:56:49.136Z",
+  "ip": "10.18.135.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Cakdumub sodecik ka fojot gun gu ip pe ta lennac am vumod divaka baf vavnu. Aka hawlokke bo rib mo zi nih ucaehbij povet cuscogno riarelu dajtadi deluc jucwofab vaukho. Jozropwu gaab cuh kerte gasasva uwekamo fa ron raz saegivu hosdasewu mohmojvi botik tuseloz boj pavu. Bafwi fahal rewtieha irdikbum fi moli kefto cufzi vekokun vu akual nintog zah rubpof anorih pekase widiktu vivmevam.",
+    "bio": "Zimos kelatdef saonuoh le kakab jomkeg fothecig ulehaf en teblil ned idwin fe sozofa. Vurin mamaka humfujos zat hereka gejisut koleci wi eg alhe opi fi puf emcebbem misgib. Nimle wohke biniuju juhaplu zidoggi pagis lulo ir wegen tek kakrebet cepe."
+  },
+  "apiKey": "9d033e148b27b9adc96a84ab8ca6435506059860855003643a5c3f5c6e46d277",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
